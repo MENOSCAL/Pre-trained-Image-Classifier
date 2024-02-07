@@ -1,6 +1,6 @@
 # Pre-trained-Image-Classifier
 
-Used a created image classifier to identify dog breeds in Python.
+* Used a created image classifier to identify dog breeds in Python.
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ Used a created image classifier to identify dog breeds in Python.
 ## Instructions
 
 * Clone project
-* Open and run the sh file in the console:
+* Run the sh file in the console:
 * sh run_models_batch.sh
 * sh run_models_batch_uploaded.sh
 
