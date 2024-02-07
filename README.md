@@ -5,14 +5,14 @@ Used a created image classifier to identify dog breeds in Python.
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Creator](#creators)
+* [Creators](#creators)
 
 ## Instructions
 
 * Clone project
 * Open and run the sh file in the console:
-** sh run_models_batch.sh
-** sh run_models_batch_uploaded.sh
+* sh run_models_batch.sh
+* sh run_models_batch_uploaded.sh
 
 ## Creators
 
